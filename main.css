@@ -1,0 +1,8 @@
+.image-wrapper img {
+    transition: all linear 1s;
+}
+
+.half-size {
+    transform: scale(0.5);
+    transform-origin: bottom;
+}
